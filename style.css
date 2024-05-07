@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.col-6{
+    position: absolute;
+    right: 16px;
+    font-size: 18px;
+}
+body{
+    background-image: url(/img/Skin\ Tone\ Complexion\ 23.jpg);
+}
+ul li{
+    padding: 20px;
+    font-size: larger;
+}
+.col mt-5{
+    padding: 50px;
+    font-size: larger;
+}
+h1{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+
+    
+
+
+
+
